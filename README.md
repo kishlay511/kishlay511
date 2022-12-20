@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kishlay511@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1AX4sgjIybaqnb9m7fTB-NIvem-Cwj748/edit?usp=sharing&ouid=117440906485854978026&rtpof=true&sd=true](https://docs.google.com/document/d/1AX4sgjIybaqnb9m7fTB-NIvem-Cwj748/edit?usp=sharing&ouid=117440906485854978026&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1MpBKepfJeNAYN2UUxFcWOdMueY-_MVFM]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
