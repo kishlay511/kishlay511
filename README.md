@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
-- 💬 Ask me about **Python, Statistics, Machine Leaning, SQL, Deep Learning (DNN &CNN), Deployment**
+- 💬 Ask me about **Python, Statistics, Machine Leaning, SQL, Deep Learning (DNN & CNN), Deployment**
 
 - 📫 How to reach me **kishlay511@gmail.com**
 
