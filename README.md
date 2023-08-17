@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kishlay511&label=Profile%20views&color=0e75b6&style=flat" alt="kishlay511" /> </p>
 
-- 💬 Ask me about **Python, Statistics, Machine Leaning, SQL, Deep Learning (DNN & CNN), Natural Language Processing, Deployment**
+- 💬 Ask me about **Python, Statistics, Machine Leaning, SQL, Deep Learning (DNN & CNN), Natural Language Processing, Deployment, JavaScript**
 
 - 📫 How to reach me **kishlay511@gmail.com**
 
